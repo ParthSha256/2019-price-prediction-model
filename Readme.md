@@ -10,6 +10,7 @@ The code performs the following tasks:
 - Exploratory data analysis (EDA).
 - Feature engineering.
 - Building predictive models using linear regression, random forest, and XGBoost.
+- You can use the Power point presentation to see the working of model as well.
 
 ## Data
 
